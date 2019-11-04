@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Станислав Кабанов](https://up.htmlacademy.ru/adaptive/18/user/921765).
-* Наставник: `Неизвестно`.
+* Наставник: `Без наставника, то бишь сам по себе)))`.
 
 ---
 
